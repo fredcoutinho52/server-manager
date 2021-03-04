@@ -23,4 +23,4 @@ npm start
 
 ## How to build
 
-Follow the [Application Distribution](https://www.electronjs.org/docs/tutorial/application-distribution) tutorial from Electron documentation for build the app.
+Follow the [Application Distribution](https://www.electronjs.org/docs/tutorial/application-distribution) tutorial from Electron documentation to build the app.
